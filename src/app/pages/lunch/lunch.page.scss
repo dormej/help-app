@@ -1,0 +1,22 @@
+.badges {
+  padding: 10px;
+  display: block;
+  overflow-x: scroll;
+  white-space: nowrap;
+
+  ion-badge {
+    margin-right: 5px;
+    --background: rgb(240,240,240);
+    --color: black;
+    font-weight: 100;
+    --padding-end: 20px;
+    --padding-start: 20px;
+
+  }
+
+
+  .active {
+    --background: rgb(2 158 232);
+    --color: white;
+  }
+}

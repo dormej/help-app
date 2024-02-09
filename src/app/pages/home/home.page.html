@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-menu-button auto-hide="false"></ion-menu-button>
+    </ion-buttons>
+    <ion-title class="uppercase">znajdź placówkę</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-searchbar [debounce]="1000" (ionInput)="handleInput($event)" placeholder="Wyszukaj w aplikacji"></ion-searchbar>
+  <div class="cards-section">
+    <div class="cards-container">
+      <ion-card class="card-container" (click)="lunch()">
+          <ion-card-content class="card-content">
+            <ion-icon name="restaurant" color="light" size="large"></ion-icon>
+            <ion-card-title class="uppercase" color="light"> jadłodajnie </ion-card-title>
+          </ion-card-content>
+      </ion-card>
+      <ion-card class="card-container" (click)="heating()">
+        <ion-card-content class="card-content">
+          <ion-icon name="home" color="light" size="large"></ion-icon>
+          <ion-card-title class="uppercase" color="light"> ogrzewalnie </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+    </div>
+
+    <div class="cards-container">
+      <ion-card class="card-container" (click)="shelter()">
+        <ion-card-content class="card-content">
+          <ion-icon color="light" name="bed" size="large"></ion-icon>
+          <ion-card-title class="uppercase" color="light"> noclegownie </ion-card-title>
+        </ion-card-content>
+      </ion-card>
+      <ion-card class="card-container" (click)="baths()">
+        <ion-card-content class="card-content">
+
+          <ion-icon name="water" color="light" size="large"></ion-icon>
+          <ion-card-title class="uppercase" color="light"> łaźnie </ion-card-title>
+      </ion-card-content>
+        </ion-card>
+    </div>
+  </div>
+</ion-content>

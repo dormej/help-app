@@ -1,0 +1,1136 @@
+{
+  "data": [
+    {
+      "typeName" : [
+        {
+          "jadłodajnie": [
+            {
+              "Bemowo": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["11:00", "11:00", "11:00", "11:00", "11:00", null, null],
+                  "closeHour": ["14:00", "14:00", "14:00", "14:00", "14:00", null, null],
+                  "email": "",
+                  "googleMapUrl": "",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Białołęka": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Bielany": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Mokotów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ochota": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Południe": [
+                {
+                  "name": "Caritas Diecezji Warszawsko-Praskiej",
+                  "streetAddress": "Grochowska",
+                  "numberAddress": "111/113",
+                  "zipCode": "04-148",
+                  "phoneNumber": ["22 818 43 86", "22 619 44 76"],
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["11:00", "11:00", "11:00", "11:00", "11:00", null, null],
+                  "closeHour": ["14:00", "14:00", "14:00", "14:00", "14:00", null, null],
+                  "email": "warszawa-praga@caritas.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/YWzRt7FkNwdM3Jai6",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Praga Północ": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Rembertów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Śródmieście":[
+                {
+                  "name": "Jadłodajnia Św. Ryszarda Pampuri",
+                  "streetAddress": "Sapieżyńska",
+                  "numberAddress": "3",
+                  "zipCode": "00-215",
+                  "phoneNumber": "22 635 35 60",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["10:00", "10:00", "10:00", "10:00", "10:00", null, null],
+                  "closeHour": ["12:00", "12:00", "12:00", "12:00", "12:00", null, null],
+                  "email": "konwent.bonifratrow@wp.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/h1erEeVV6B5LnwLZ8",
+                  "info": ""
+                },
+                {
+                  "name": "Klasztor Zakonu Braci Mniejszych Kapucynów w Warszawie",
+                  "streetAddress": "Kapucyńska",
+                  "numberAddress": "4",
+                  "zipCode": "00-245",
+                  "phoneNumber": "797 907 148",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["11:00", "11:00", "11:00", "11:00", "11:00", "11:00", "11:00"],
+                  "closeHour": ["13:30", "13:30", "13:30", "13:30", "13:30", "13:30", "13:30"],
+                  "email": "konwent.bonifratrow@wp.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/h1erEeVV6B5LnwLZ8",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Targówek": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursus": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursynów":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wawer": [
+                {
+                  "name": "Zgromadzenie Sióstr Świętego Feliksa z Kantalicjo Prowincja Matki Bożej Królowej Polski- Siostry Felicjanki",
+                  "streetAddress": "Azaliowa",
+                  "numberAddress": "10A",
+                  "zipCode": "04-539",
+                  "phoneNumber": "509 172 166",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["10:00", "10:00", "10:00", "10:00", "10:00", "11:00", null],
+                  "closeHour": ["14:00", "14:00", "14:00", "14:00", "14:00", "12:00", null],
+                  "email": "s.jadzia@wp.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/UhUZBcmKpCTu3Fu66",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Wesoła":[
+                {
+                  "name": "Stowarzyszenie Alter Ego",
+                  "streetAddress": "Wiślana",
+                  "numberAddress": "7",
+                  "zipCode": "05-077",
+                  "phoneNumber": "22 760 86 40",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["11:00", "11:00", "11:00", "11:00", "11:00", null, null],
+                  "closeHour": ["13:00", "13:00", "13:00", "13:00", "13:00", null, null],
+                  "email": "stowarzyszenie@alter-ego.org.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/tVqarsmSq2i2UTbCA",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Wilanów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Włochy": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wola":[
+                {
+                  "name": "Caritas Archidiecezji Warszawskiej",
+                  "streetAddress": "Żytnia",
+                  "numberAddress": "1A",
+                  "zipCode": "01-014",
+                  "phoneNumber": "22 838 70 25",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "openHour": ["13:00", null, "13:00", null, "13:00", null, null],
+                  "closeHour": [null, null, null, null, null, null, null],
+                  "email": "zytnia@caritasaw.pl",
+                  "googleMapUrl": "https://maps.app.goo.gl/reXMYkd4JGRArMAV6",
+                  "info": ""
+                }
+              ]
+            },
+            {
+              "Żoliborz": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ogrzewalnie": [
+            {
+              "Bemowo": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Białołęka": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Bielany": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Mokotów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ochota": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Południe": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Północ": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Rembertów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Śródmieście":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Targówek": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursus": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursynów":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wawer": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wesoła":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wilanów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Włochy": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wola":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Żoliborz": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "noclegownnie": [
+            {
+              "Bemowo": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Białołęka": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Bielany": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Mokotów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ochota": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Południe": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Północ": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Rembertów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Śródmieście":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Targówek": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursus": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursynów":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wawer": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wesoła":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wilanów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Włochy": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wola":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Żoliborz": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "łaźnie": [
+            {
+              "Bemowo": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Białołęka": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Bielany": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Mokotów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ochota": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Południe": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Praga Północ": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Rembertów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Śródmieście":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Targówek": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursus": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Ursynów":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wawer": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wesoła":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wilanów": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Włochy": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Wola":[
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            },
+            {
+              "Żoliborz": [
+                {
+                  "name": "",
+                  "streetAddress": "",
+                  "numberAddress": "",
+                  "zipCode": "",
+                  "phoneNumber": "",
+                  "limitOfPlaces": null,
+                  "takenPlaces": null,
+                  "email": "",
+                  "googleMapUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -74,6 +74,12 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /** custom **/
+  --light-primary: rgb(243, 237, 200);
+  --dark-primary: rgb(234, 209, 150);
+  --light-secondary: rgb(191, 49, 49)
+  --dark-secondary: rgb(125, 10, 10);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -235,8 +241,13 @@
   }
 }
 
+@font-face {
+  font-family: AppFont;
+  src: url("…/assets/fonts/Oxygen-Regular.ttf"); //change url accordingly
+}
+
 html {
-  /* 
+  /*
    * For more information on dynamic font scaling, visit the documentation:
    * https://ionicframework.com/docs/layout/dynamic-font-scaling
    */

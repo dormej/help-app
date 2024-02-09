@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button default-href="/home"></ion-back-button>
+    </ion-buttons>
+    <ion-title class="uppercase">obiadodajnie</ion-title>
+    <ion-buttons slot="end">
+      <ion-menu-button auto-hide="false"></ion-menu-button>
+    </ion-buttons>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-searchbar [debounce]="1000" (ionInput)="handleInput($event)"></ion-searchbar>
+  <div class="badges">
+    <ion-badge class="active">Wszystkie</ion-badge>
+    <ion-badge>Teraz otwarte</ion-badge>
+    <ion-badge>Najbliższe</ion-badge>
+    <ion-badge>Wolne miejsca</ion-badge>
+  </div>
+</ion-content>

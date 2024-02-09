@@ -1,0 +1,22 @@
+.list-items {
+  padding: 15px;
+
+  .list-item {
+    border: 1px solid rgb(212, 222, 255);
+    border-radius: 15px;
+    padding: 8px 10px;
+
+    .item-title {
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .item-address {
+      font-size: 14px;
+    }
+
+    .item-opening-hours {
+      font-weight: 600;
+    }
+  }
+}
