@@ -1,21 +1,34 @@
 import { NgModule } from '@angular/core';
-import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
+import { RouterModule } from '@angular/router';
+import { StartPageComponent } from './start-page/start-page.component';
+import { BathsComponent } from './baths/baths.component';
+import { AppComponent } from './app.component';
 
-const routes: Routes = [
-  {
-    path: '',
-    redirectTo: 'folder/Inbox',
-    pathMatch: 'full'
-  },
-  {
-    path: 'folder/:id',
-    loadChildren: () => import('./folder/folder.module').then( m => m.FolderPageModule)
-  }
-];
 
 @NgModule({
   imports: [
-    RouterModule.forRoot(routes, { preloadingStrategy: PreloadAllModules })
+    RouterModule.forRoot([
+      {
+        path: '',
+        component: StartPageComponent,
+        children: [
+        //   {
+        //     path: '',
+        //     pathMatch: 'full',
+        //     redirectTo: 'start',
+        //   },
+          // {
+          //   path: 'start',
+          //   loadChildren: () => import('./start-page/start-page.module').then((m) => m.StartPageModule),
+          // },
+          {
+            path: 'baths',
+            component: BathsComponent,
+          }
+        ]
+      }
+    ]
+    ),
   ],
   exports: [RouterModule]
 })

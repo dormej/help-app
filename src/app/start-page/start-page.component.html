@@ -13,29 +13,37 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
   <!-- <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">{{ folder }}</ion-title>
     </ion-toolbar>
   </ion-header> -->
 
-  <ion-searchbar show-cancel-button="never" placeholder="Szukaj"></ion-searchbar>
 
+  <ion-searchbar></ion-searchbar>
+<ion-searchbar placeholder="Custom Placeholder"></ion-searchbar>
+<ion-searchbar disabled="true" placeholder="Disabled"></ion-searchbar>
+<ion-searchbar value="Value"></ion-searchbar>
+<ion-searchbar animated="true" placeholder="Animated"></ion-searchbar>
+
+<ion-searchbar show-cancel-button="never" placeholder="Szukaj"></ion-searchbar>
+
+<input label="szukaj" title="szukaj" placeholder="Nowy szukaj">
 <div class="cards-section">
   <div id="container">
+    <a routerLink="baths">Łaźnie</a>
+
     <ion-card class="card-container">
       <ion-card-content>
         <ion-icon name="water" size="large"></ion-icon>
         <p class="uppercase"> łaźnie </p>
       </ion-card-content>
     </ion-card>
-
     <ion-card class="card-container">
-      <ion-card-content>
-        <ion-icon name="restaurant" size="large"></ion-icon>
-        <p class="uppercase"> jadłodajnie </p>
-      </ion-card-content>
+        <ion-card-content>
+          <ion-icon name="restaurant" size="large"></ion-icon>
+          <p class="uppercase"> jadłodajnie </p>
+        </ion-card-content>
     </ion-card>
   </div>
 
@@ -77,4 +85,3 @@
   </ion-tab-bar>
 </ion-tabs>
 
-</ion-content>
